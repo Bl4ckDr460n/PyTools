@@ -1,0 +1,15 @@
+
+install :
+$ pkg update
+$ pkg upgarde
+$ pkg install python2
+$ pip2 install requests
+$ pkg install git
+$ git clone https://github.com/Bl4ckDr460n/PyTools.git
+$ cd PyTools
+$ python2 PyTools.py
+
+
+Thanks To :
+1.ALLAH SWT
+2.Bl4ck Dr460n
